@@ -13,7 +13,7 @@ A Laravel-based RESTful API for user management with search, pagination, and ema
 - PHP >= 8.1
 - Composer
 - MySQL/PostgreSQL
-- Laravel 10.x
+- Laravel 11.x
 - SMTP server for emails
 
 ## First Installation
